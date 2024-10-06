@@ -21,7 +21,7 @@ I am Atharva Ajgaonkar, a passionate developer (Majorly Golang) working in India
  </p>
 
  <p float="left">
-  <a href="https://www.docker.com/" target="_blank" >
+  <a href="https://react.dev/" target="_blank" >
     <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif"  height="80" /> 
   </a>
  </p>
@@ -30,7 +30,8 @@ I am Atharva Ajgaonkar, a passionate developer (Majorly Golang) working in India
 
 <p float="left">
   <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/vinamra28/vinamra28/master/assets/mongo.gif" height="80" />
+    <img src="![image](https://github.com/user-attachments/assets/d13ea996-2623-47b0-b4ac-ecc686719a2d)
+" height="80" />
   </a>
 </p>
 
