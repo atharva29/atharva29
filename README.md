@@ -22,7 +22,7 @@ I am Atharva Ajgaonkar, a passionate developer (Majorly Golang) working in India
 
  <p float="left">
   <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/vinamra28/vinamra28/master/assets/nodejs.gif"  height="80" /> 
+    <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif"  height="80" /> 
   </a>
  </p>
 
