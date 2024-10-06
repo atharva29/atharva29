@@ -16,7 +16,7 @@ I am Atharva Ajgaonkar, a passionate developer (Majorly Golang) working in India
     <img src="https://raw.githubusercontent.com/atharva29/atharva29/master/assets/docker.gif"  height="80" /> 
   </a>
   <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/vinamra28/vinamra28/master/assets/k8s.gif"  height="75" />
+    <img src="https://raw.githubusercontent.com/atharva29/atharva29/master/assets/k8s.gif"  height="75" />
   </a>
  </p>
 
