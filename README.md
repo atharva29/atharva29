@@ -26,14 +26,6 @@ I am Atharva Ajgaonkar, a passionate developer (Majorly Golang) working in India
   </a>
  </p>
 
-### Databases
-
-<p float="left">
-  <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="![image](https://github.com/user-attachments/assets/d13ea996-2623-47b0-b4ac-ecc686719a2d)
-" height="80" />
-  </a>
-</p>
 
 ### 📫 How to reach me?
 
