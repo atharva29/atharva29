@@ -37,5 +37,5 @@ I am Atharva Ajgaonkar, a passionate developer (Majorly Golang) working in India
 ### 📫 How to reach me?
 
 ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/atharvaajgaonkar/) 👨🏻‍💻 <br>
-⦿ Shoot Me an [Email](atharvaajgaonkar29@gmail.com) 💌 <br>
+⦿ Shoot Me an [Email](mailto:atharvaajgaonkar29@gmail.com) 💌 <br>
 ⦿ Read my blogs on [Medium](https://medium.com/@atharvaajgaonkar29) 📝 <br>
